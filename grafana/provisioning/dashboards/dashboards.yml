@@ -1,0 +1,11 @@
+apiVersion: 1
+
+providers:
+  - name: DevOps TP08
+    orgId: 1
+    folder: DevOps TP08
+    type: file
+    disableDeletion: false
+    editable: true
+    options:
+      path: /var/lib/grafana/dashboards
